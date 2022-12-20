@@ -1,22 +1,22 @@
 {
-  "resources/js/views/Login.vue": {
-    "file": "assets/Login-29533073.js",
-    "src": "resources/js/views/Login.vue",
-    "isDynamicEntry": true,
-    "imports": [
-      "resources/js/app.js"
-    ]
-  },
   "resources/js/views/Dashboard.vue": {
-    "file": "assets/Dashboard-51b414bd.js",
+    "file": "assets/Dashboard-b106f6ab.js",
     "src": "resources/js/views/Dashboard.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.js"
     ]
   },
+  "resources/js/views/Login.vue": {
+    "file": "assets/Login-e51f6997.js",
+    "src": "resources/js/views/Login.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
   "resources/js/app.js": {
-    "file": "assets/app-25649675.js",
+    "file": "assets/app-7871179d.js",
     "src": "resources/js/app.js",
     "isEntry": true,
     "dynamicImports": [

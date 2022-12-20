@@ -34,7 +34,8 @@ export const useAuthStore = defineStore("auth", {
                     //console.log(data);
                     this.user = data.user;
                     this.authenticated = true;
-                    window.location.href = "/";
+                    //window.location.href = "/";
+                    router.push({ name: "dashboard" });
                 })
                 .catch(({ response: { data } }) => {
                     this.allPermissions = [];
